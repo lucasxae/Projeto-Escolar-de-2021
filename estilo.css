@@ -1,0 +1,28 @@
+
+
+
+footer{
+    background: lightcoral;
+    margin: auto;
+}
+
+
+#titulo{
+    text-align: center;
+    background: lightcoral;
+}
+#comeco{
+    background: lightcoral;
+}
+
+#cima{
+    background: lightblue;
+}
+
+
+#cadastro{
+text-align: center;
+}
+#botao{
+    text-align: left;
+}
